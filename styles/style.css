@@ -1,0 +1,296 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800);
+@import url(https://fonts.googleapis.com/css?family=Nothing+You+Could+Do:400);
+body {
+  background-color: #383838;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300; }
+
+.container {
+  max-width: 1170px; }
+
+a {
+  color: #C63F01; }
+  a:hover {
+    color: #7a2701;
+    text-decoration: underline; }
+
+h1 {
+  font-size: 3rem;
+  font-weight: 300; }
+
+h2 {
+  font-size: 2.3rem;
+  font-weight: 300; }
+
+h3 {
+  font-size: 1.8rem;
+  font-weight: 300;
+  margin-bottom: 1rem; }
+
+h4 {
+  font-size: 1.125em;
+  font-weight: 300;
+  margin-bottom: 1rem; }
+
+p {
+  font-size: 1em; }
+
+strong {
+  font-weight: 500; }
+
+li {
+  font-size: 1em;
+  margin-bottom: 0.3125rem; }
+
+.navbar {
+  background-color: #383838;
+  padding: 1rem 0.9375rem; }
+  .navbar .navbar-brand:hover {
+    color: #fff; }
+  .navbar .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 400;
+    text-transform: lowercase; }
+    .navbar .navbar-nav .nav-link:hover {
+      color: #C63F01; }
+  @media (max-width: 576px) {
+    .navbar .ml-auto {
+      text-align: center; }
+      .navbar .ml-auto .nav-item {
+        background-color: rgba(255, 255, 255, 0.1);
+        margin-bottom: 0; } }
+
+.navbar-light .navbar-brand {
+  color: #fff;
+  font-size: 1.125rem;
+  font-weight: 300;
+  letter-spacing: .1em; }
+.navbar-light .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.1); }
+
+.namebold {
+  color: #FF952B;
+  font-weight: 800; }
+
+.masthead {
+  color: #fff;
+  margin-top: 4rem; }
+  .masthead h2 {
+    opacity: 0.6; }
+  .masthead h3 {
+    opacity: 0.4; }
+  .masthead h4 {
+    opacity: 0.2; }
+  @media (min-width: 0) {
+    .masthead {
+      padding: 3rem 0; } }
+  @media (min-width: 992px) {
+    .masthead {
+      padding: 6rem 0; } }
+
+.sub {
+  text-align: center; }
+  .sub span {
+    color: #C63F01;
+    font-weight: 700; }
+
+.intro {
+  margin-bottom: 3.125rem; }
+  .intro .photo {
+    background-image: url("../graphics/nyd-2019b.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; }
+    @media (min-width: 0) {
+      .intro .photo {
+        height: 270px; } }
+    @media (min-width: 576px) {
+      .intro .photo {
+        height: auto; } }
+  .intro .intro-txt {
+    background-color: #fff; }
+    .intro .intro-txt h2 {
+      margin-bottom: 2.75rem; }
+      .intro .intro-txt h2 span {
+        color: #C63F01;
+        font-weight: 700; }
+    .intro .intro-txt p {
+      font-size: 1.25rem; }
+    @media (min-width: 0) {
+      .intro .intro-txt {
+        padding: 2.125rem; } }
+    @media (min-width: 576px) {
+      .intro .intro-txt {
+        padding: 3.125rem; } }
+  .intro .sub-txt p {
+    font-size: 1rem; }
+
+.quote {
+  background-color: #C63F01;
+  margin-bottom: 3.125rem;
+  text-align: center; }
+  @media (min-width: 0) {
+    .quote .quote1-txt {
+      padding: 2.4375rem 0;
+      text-align: center; }
+      .quote .quote1-txt h3 {
+        color: #fff;
+        font-size: 1.5em;
+        font-family: "Nothing You Could Do", cursive;
+        margin-bottom: 0; } }
+  @media (min-width: 576px) {
+    .quote .quote1-txt {
+      padding: 3.4375rem 0;
+      text-align: center; }
+      .quote .quote1-txt h3 {
+        color: #fff;
+        font-size: 2em;
+        font-family: "Nothing You Could Do", cursive;
+        margin-bottom: 0; } }
+
+.headline {
+  margin-bottom: 3.125rem;
+  text-align: center; }
+  .headline h2 {
+    color: #fff; }
+    .headline h2 a {
+      color: #fff; }
+    .headline h2 a:hover {
+      text-decoration: none; }
+    .headline h2 span, .headline h2 i {
+      color: #C63F01;
+      font-weight: 700; }
+    .headline h2 .fab {
+      font-size: 1.5rem; }
+
+.exp1 {
+  margin-bottom: 3.125rem; }
+  .exp1 .container {
+    background-color: #fff; }
+
+.exp-img {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 3.125rem; }
+
+.exp-txt {
+  padding: 3.125rem; }
+  .exp-txt p {
+    font-size: 1em; }
+  @media (min-width: 0) {
+    .exp-txt {
+      padding: 1.125rem; } }
+  @media (min-width: 576px) {
+    .exp-txt {
+      padding: 3.125rem; } }
+
+.exp {
+  margin-bottom: 3.125rem; }
+
+.card {
+  border: 0;
+  border-radius: 0; }
+  @media (min-width: 0) {
+    .card .card-header {
+      padding: .75rem 1rem; }
+    .card .card-body {
+      padding: 2.125rem; } }
+  @media (min-width: 576px) {
+    .card .card-header {
+      padding: .75rem 1.25rem; }
+    .card .card-body {
+      padding: 3.125rem; } }
+
+.btn-link {
+  color: #333333;
+  font-weight: 300;
+  text-align: left;
+  width: 100%; }
+  .btn-link:hover {
+    color: #333333;
+    text-decoration: none; }
+  .btn-link:focus {
+    text-decoration: none; }
+  @media (min-width: 0) {
+    .btn-link {
+      font-size: 1rem; }
+      .btn-link i {
+        color: #C63F01;
+        font-size: 1rem;
+        position: absolute;
+        right: 2rem;
+        padding-top: 0.25rem; } }
+  @media (min-width: 576px) {
+    .btn-link {
+      font-size: 1.625rem; }
+      .btn-link i {
+        color: #C63F01;
+        font-size: 1rem;
+        position: absolute;
+        right: 2rem;
+        padding-top: 0.625rem; } }
+
+.eskills {
+  margin-bottom: 3.125rem; }
+  .eskills .photo2 {
+    background-image: url("../graphics/efelle-marketing.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; }
+    @media (min-width: 0) {
+      .eskills .photo2 {
+        height: 270px; } }
+    @media (min-width: 576px) {
+      .eskills .photo2 {
+        height: auto; } }
+  .eskills .photo3 {
+    background-image: url("../graphics/efelle-2019.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; }
+    @media (min-width: 0) {
+      .eskills .photo3 {
+        height: 270px; } }
+    @media (min-width: 576px) {
+      .eskills .photo3 {
+        height: auto; } }
+  @media (min-width: 0) {
+    .eskills .eskills-txt {
+      background-color: #fff;
+      padding: 2.125rem; }
+      .eskills .eskills-txt p {
+        font-size: 1.125rem; } }
+  @media (min-width: 576px) {
+    .eskills .eskills-txt {
+      background-color: #fff;
+      padding: 3.125rem; }
+      .eskills .eskills-txt p {
+        font-size: 1.125rem; } }
+
+.ig {
+  margin-bottom: 3.125rem; }
+  .ig img {
+    width: 100%; }
+
+@media (min-width: 0) {
+  .blog-ov {
+    background-color: #fff;
+    padding: 2.125rem;
+    margin-bottom: 2rem; } }
+@media (min-width: 576px) {
+  .blog-ov {
+    background-color: #fff;
+    padding: 3.125rem;
+    margin-bottom: 2rem; } }
+.footer {
+  text-align: center; }
+  .footer p {
+    color: #fff; }
+  .footer a {
+    color: #fff; }
+  .footer .fab {
+    font-size: 1.5rem; }
+
+/*# sourceMappingURL=style.css.map */

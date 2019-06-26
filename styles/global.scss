@@ -1,0 +1,483 @@
+@import 'fonts';
+@import 'variables';
+
+
+body {
+	background-color: $body-bg;
+	font-family: $font-family-sans-serif;
+	font-weight: $font-weight-light;
+}
+
+.container {
+	max-width: 1170px;
+}
+
+// @media (min-width: $screen-xs) {
+// 	.hideme {	
+// 		opacity: 1;	
+// 	}
+// }
+
+// @media (min-width: $screen-sm) {
+// 	.hideme {	
+// 		opacity: 0;	
+// 	}
+// }
+
+a {
+	color: $link-color;
+
+	&:hover {
+		color: $link-hover-color;
+		text-decoration: underline;
+	}
+}
+
+// FONTS
+
+h1 {
+	font-size: $h1-font-size;
+	font-weight: $font-weight-light;
+}
+
+h2 {
+	font-size: $h2-font-size;
+	font-weight: $font-weight-light;
+}
+
+h3 {
+	font-size: $h3-font-size;
+	font-weight: $font-weight-light;
+	margin-bottom: 1rem;
+}
+
+h4 {
+	font-size: $h4-font-size;
+	font-weight: $font-weight-light;
+	margin-bottom: 1rem;
+}
+
+p {
+	font-size: 1em;
+}
+
+strong {
+	font-weight: $font-weight-semi;
+}
+
+li {
+	font-size: 1em;
+	margin-bottom: 0.3125rem;
+}
+
+// NAVIGATION
+
+.navbar {
+	background-color: $body-bg;
+	padding: 1rem 0.9375rem;
+
+	.navbar-brand:hover {
+		color: $white;
+	}
+
+	.navbar-nav {
+		.nav-link {
+			color: $white;
+			font-size: 1rem;
+			font-weight: $font-weight-normal;
+			text-transform: lowercase;
+
+			&:hover {
+				color: $bg-secondary-color;
+			}
+		}
+	}
+
+	@media (max-width: $screen-sm) {
+  		.ml-auto {
+			text-align: center;
+
+			.nav-item {
+				background-color: rgba(255,255,255,.1);
+				margin-bottom: 0;
+			}
+		}	
+	}
+}
+
+.navbar-light {
+	.navbar-brand {
+		color: $white;
+		font-size: 1.125rem;
+		font-weight: $font-weight-light;
+		letter-spacing: .1em;
+	}
+
+	.navbar-toggler {
+		border-color: rgba(255,255,255,.1);
+	} 
+}
+
+.namebold {
+	color: $body-accent-color;
+	font-weight: $font-weight-bold;
+}
+
+// MASTHEAD
+
+.masthead {
+	color: $white;
+	margin-top: 4rem;
+	
+
+	h1 {
+	}
+
+	h2 {
+		opacity: 0.6;
+	}
+
+	h3 {
+		opacity: 0.4;
+	}
+
+	h4 {
+		opacity: 0.2;
+	}
+
+	@media (min-width: $screen-xs) {
+		padding: 3rem 0;
+	}
+
+	@media (min-width: $screen-lg) {
+		padding: 6rem 0;
+	}
+
+}
+
+.sub {
+	text-align: center;
+
+	span {
+		color: $bg-secondary-color;
+		font-weight: $font-weight-semibold;
+	}
+}
+
+
+.intro {
+	margin-bottom: 3.125rem;
+
+	.photo {
+		background-image: url('../graphics/nyd-2019b.png');
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+
+		@media (min-width: $screen-xs) {
+			height: 270px;
+		}
+
+		@media (min-width: $screen-sm) {
+			height: auto;
+		}
+	}
+
+	.intro-txt {
+		background-color: $white;
+		
+
+		h2 {
+			margin-bottom: 2.75rem;
+
+			span {
+				color: $bg-secondary-color;
+				font-weight: $font-weight-semibold;
+			}
+		}
+
+		p {
+			font-size: 1.25rem;
+		}
+
+		@media (min-width: $screen-xs) {
+			padding: 2.125rem;
+		}
+
+		@media (min-width: $screen-sm) {
+			padding: 3.125rem;
+		}
+	}
+
+	.sub-txt {
+		p {
+			font-size: 1rem;
+		}
+	}
+}
+
+// QUOTES
+.quote {
+	background-color: $bg-secondary-color;
+	margin-bottom: 3.125rem;
+	text-align: center;
+
+	@media (min-width: $screen-xs) {
+
+		.quote1-txt {
+			padding: 2.4375rem 0;
+			text-align: center;
+
+			h3 {
+				color: $white;
+				font-size: 1.5em;
+				font-family: $font-family-secondary;
+				margin-bottom: 0;
+			}
+		}
+	}
+
+	@media (min-width: $screen-sm) {
+
+		.quote1-txt {
+			padding: 3.4375rem 0;
+			text-align: center;
+
+			h3 {
+				color: $white;
+				font-size: 2em;
+				font-family: $font-family-secondary;
+				margin-bottom: 0;
+			}
+		}
+	}
+
+
+}
+
+// EXPERIENCE SECTION
+
+.headline {
+	margin-bottom: 3.125rem;
+	text-align: center;
+
+	h2 {
+		color: $white;
+
+		a {
+			color: $white;
+		}
+
+		a:hover {
+			text-decoration: none;
+		}
+
+		span,i {
+			color: $bg-secondary-color;
+			font-weight: $font-weight-semibold;
+		}
+
+		.fab {
+			font-size: 1.5rem;
+		}
+	}
+}
+
+.exp1 {
+	margin-bottom: 3.125rem;
+
+	.container {
+		background-color: $white;
+	}
+}
+
+.exp-img {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	padding: 3.125rem;
+}
+
+.exp-txt {
+	padding: 3.125rem;
+
+	p {
+		font-size: 1em;
+	}	
+
+	@media (min-width: $screen-xs) {
+		padding: 1.125rem;
+	}
+
+	@media (min-width: $screen-sm) {
+		padding: 3.125rem;
+	}
+}
+
+.exp {
+	margin-bottom: 3.125rem;
+}
+
+.card {
+	border: 0;
+	border-radius: 0;
+
+	@media (min-width: $screen-xs) {
+		.card-header {
+			padding: .75rem 1rem;
+		}
+
+		.card-body {
+			padding: 2.125rem;
+		}
+	}
+
+	@media (min-width: $screen-sm) {
+		.card-header {
+			padding: .75rem 1.25rem;
+		}
+		
+		.card-body {
+			padding: 3.125rem;
+		}
+	}
+}
+
+.btn-link {
+	color: $body-color;
+	font-weight: $font-weight-light;
+	text-align: left;
+	width: 100%;
+
+	&:hover {
+		color: $body-color;
+		text-decoration: none;
+	}
+
+	&:focus {
+		text-decoration: none;
+	}
+
+	@media (min-width: $screen-xs) {
+		font-size: 1rem;
+
+		i {
+			color: $bg-secondary-color;
+			font-size: 1rem;
+			position: absolute;
+			right: 2rem;
+			padding-top: 0.25rem;
+		}
+	}
+
+	@media (min-width: $screen-sm) {
+		font-size: 1.625rem;
+
+		i {
+			color: $bg-secondary-color;
+			font-size: 1rem;
+			position: absolute;
+			right: 2rem;
+			padding-top: 0.625rem;
+		}
+	}
+}
+
+.eskills {
+	margin-bottom: 3.125rem;
+
+	.photo2 {
+		background-image: url('../graphics/efelle-marketing.jpg');
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+
+		@media (min-width: $screen-xs) {
+			height: 270px;
+		}
+
+		@media (min-width: $screen-sm) {
+			height: auto;
+		}
+	}
+
+	.photo3 {
+		background-image: url('../graphics/efelle-2019.jpg');
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+
+		@media (min-width: $screen-xs) {
+			height: 270px;
+		}
+
+		@media (min-width: $screen-sm) {
+			height: auto;
+		}
+	}
+
+	@media (min-width: $screen-xs) {
+		.eskills-txt {
+			background-color: $white;
+			padding: 2.125rem;
+
+			p {
+				font-size: 1.125rem;
+			}
+		}
+	}
+
+	@media (min-width: $screen-sm) {
+		.eskills-txt {
+			background-color: $white;
+			padding: 3.125rem;
+
+			p {
+				font-size: 1.125rem;
+			}
+		}
+	}
+}
+
+.ig {
+	margin-bottom: 3.125rem;
+
+	img {
+		width: 100%;
+	}
+}
+
+// Articles
+
+@media (min-width: $screen-xs) {
+	.blog-ov {
+		background-color: $white;
+		padding: 2.125rem;
+		margin-bottom: 2rem;
+	}
+}
+
+@media (min-width: $screen-sm) {
+	.blog-ov {
+		background-color: $white;
+		padding: 3.125rem;
+		margin-bottom: 2rem;
+	}
+}
+
+
+.footer {
+	text-align: center;
+
+	p {
+		color: $white;
+	}
+
+	a {
+		color: $white;
+	}
+
+	.fab {
+		font-size: 1.5rem;
+	}
+}

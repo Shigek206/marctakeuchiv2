@@ -1,0 +1,16 @@
+<h3>Bring on 2017!</h3>
+<p><strong>December 2017 update!</strong><br />
+Happy Holidays! I can't believe it's already December?! Where did the time go? Anyhow, I wanted to post a quick update on changes at work. Well I'm on the move again and recently transitioned to the account management team. I'm  excited as I'll be working closely with new clients and forming long term relationship. Even though I was managing some of my smaller client projects this will allow me to gain experience in managing larger projects which will only allow growth to my career. And of course...I still help out the other teams (support, front-end dev, marketing) as needed. </p>
+
+<p><strong>April 2017</strong><br />
+Updates on my role at the company, it's been quite the learning curve however with my previous analyst experience along with a technical background, the overall transition was pretty smooth. I brought on a lot of new clients and continue to keep up with the trends in our industry. The number of competitors as well as shifts in web design/development and SEO/Marketing pose new challenges every year, however it's what makes this industy so exciting. The past month or so, I've actually switched up my role a bit and have been spending half my time back in front-end development helping out my team with smaller projects. There are several of us in the company that are "jack of all trades" or as I call it "rovers" so we backup whomever needs the help. Having been out of development for almost a year, it took a little time to get back in the groove, but am having a blast. Mixing up my client facing role and developer role has ended up being a great mix for me. It's the best of both worlds! Anyhow, I hope to post a mid-year update with exciting things happening with myself and the company.</p>
+
+<p>Wow, where did 2016 go?! I can't believe we're already a quarter of the way into 2017. Lots of good stuff to report since my last post. As you know I moved away from front end development and into a more client facing role with sales/marketing crew (Fred, Leif and Aron). First off, we (efelle) moved into a new kick-ass office on the waterfront in June of last year. We're directly across the street from the ferries overlooking the Puget Sound as well as the stadiums to the south. The new digs are triple the size of our last office and we're in one of the up and coming tech hubs in the city. We're literally surrounded by other technology companies in our building along with neighboring buildings along Western Avenue.</p>
+
+<p>Non-work related news, I've been trying a lot of new local beers so make sure to follow me on Instagram - <a href="https://www.instagram.com/marctakeuchi/" target="_blank" title="Marc Takeuchi Instagram">@marctakeuchi</a> - to see all the latest beers that have hit my palate. Alsan Brewing Co. & Kulshan Brewing out of Bellingham, WA have been on a heavy rotation at home, along with pFriem Family Brewers and Breakside (duh). Haha.</p> 
+
+<p>Cheers!</p>
+
+<p>- Marc</p>  
+
+<p><a href="articles" title="Back to Articles">&lsaquo;&lsaquo; Back to Articles</a></p>

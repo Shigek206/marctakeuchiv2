@@ -1,0 +1,16 @@
+<h3>Explore and try out new areas in technology</h3>
+<p><strong>Update: 2.25.18</strong></p>
+<p>This article was written some time ago, but a lot still holds true. When I originally wrote this I was working at my previous company so the "lingo" was more toward what we used in a corprate internal environment. Now that I've been with a creative agency for almost 10 years now I thought I'd update this article a bit with new "lingo".</p>
+
+<p>One of the most distinctive changes I've seen is agencies that started out as web design firms are now diversifying into other areas such as SEO, marketing, branding to name a few thus the change from a web specific agency to a "creative" agency. The term is more broad which makes sense as agencies like the one I work for do much more than just design.</p>
+
+<p>There are definitely similar roles in a creative agency versus a corporate team. The creative agency has a more of a simplified structure with folks having multiple roles. Now when I talk to someone wanting to get into the web industry, I use the roles we use in the present. These roles include, online marketing/business development, copywriter, app development, front-end development, account manager, SEO to name a few. As mentioned earlier, the difference now is folks have a diverse knowledge multiple areas thus opening up more opportunities.</p>
+
+<p><strong>Original post</strong></p>
+<p>One thing I always recommend to young professionals or anyone considering a career in Information Technology is to learn and try out different positions and functions. I find that a lot of people who know little about IT think all we do is work on computers.  I'm sure IT professionals know what I'm talking about. As soon as someone finds out you work in IT they immediately mention something about a computer issue they are having and ask if you know how to fix it. What they don't realize is like other industries, IT is comprised of many functions and processes that work together to produce an end product.</p>
+
+<p>Common functions and roles of an IT project include project managers, requirements analysts, web designers, information architects, database architects, developers, software engineers, and functional analysts. Within a web application project a project manager may not be skilled in object oriented programming and a database architect may not be skilled at web interface design, however they all play a critical role. Whether you build automobiles or web applications the same elements and functions of the development lifecycle remain the same. It takes all these functions collaborating and working together to run a project efficiently and effectively. </p>
+
+<p>Learning and exploring these roles will not only build upon your skill set and overall knowledge, but may also open your eyes to new areas of interest in IT.  As you go through changes in your career having a diverse skill set and knowledge in different areas of IT can open up new opportunities.</p>
+
+<p><a href="articles" title="Back to Articles">&lsaquo;&lsaquo; Back to Articles</a></p>
