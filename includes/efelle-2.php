@@ -3,7 +3,7 @@
 
 <p><strong>Responsibilities:</strong></p>
 <ul>
-	<li>Learn clients business goals and objectives and collaborate to create a plan to achieve them</li>
+	<li>Learn clients business goals and objectives creating a roadmap to achieve them</li>
 	<li>Recommend solutions to solve current pain point to achieve higher conversions and ROI</li>
 	<li>Develop scope and outline the specifications of the project</li>
 	<li>Work closely with third party entities that will be part of the project scope</li>
