@@ -3,8 +3,8 @@
 
 <p><strong>Responsibilities:</strong></p>
 <ul>
-	<li>Learn clients current pain points and current/future business goals and objectives</li>
-	<li>Collaborate and recommend solutions to solve issues to achieve higher conversions and ROI</li>
+	<li>Learn clients business goals and objectives and collaborate to create a plan to achieve them</li>
+	<li>Recommend solutions to solve current pain point to achieve higher conversions and ROI</li>
 	<li>Develop scope and outline the specifications of the project</li>
 	<li>Work closely with third party entities that will be part of the project scope</li>
 	<li>Provided account management and front-end development for smaller projects ensuring project deliverables were met within scope</li>
