@@ -4,7 +4,7 @@
 <p><strong>Responsibilities:</strong></p>
 
 <ul>
-	<li>Collaborate with clients in creating new sitemap and information architecture strategy</li>
+	<li>Collaborate with clients in creating a new and improved information architecture strategy</li>
 	<li>Recommend improved user experience (UX) solutions</li>
 	<li>Work closely with the sales and design teams to ensure project specifications and scope are met</li>
 	<li>Assist the sales and account management teams in developing solutions to technical issues</li>
