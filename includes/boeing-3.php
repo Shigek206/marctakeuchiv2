@@ -1,5 +1,5 @@
 <p><strong>EO&T IT Business Systems</strong> - Date: May 2009 to May 2010<br>
-Location: Bellevue, WA</p>
+Location: Bellevue, Everett WA</p>
 
 
 <p>Support Shared Services Group (SSG) - Boeing Commute Office providing web development, database reporting and design, functional analysis, requirements analysis and configuration management for the Transportation Resource Assistance Management System (TRAMS) system.</p>
