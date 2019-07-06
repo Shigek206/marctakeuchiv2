@@ -1,5 +1,3 @@
-<h3>Answers to common questions</h3>
-
 <p><strong>What do you enjoy about account management and what are the challenges?</strong></p>
 <p>The best thing about my job is the client interaction. I've always been a people person and enjoy meeting learning more about them. The unique role and responsibility of account management is not only managing projects and taking care of clients, but forming long-term relationships. I particularly enjoy the ability to help and mentor them in a support role, rest assured they can always contact me for any questions/concerns. It's important to me to create friendships as well as business relationships. I can only speak for my current company, but we want to make all our clients feel like part of our family, not just another client.</p>
 

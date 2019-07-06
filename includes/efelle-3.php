@@ -6,7 +6,7 @@
 <ul>
 	<li>Define timelines and milestones ensuring clients have a clear understanding of each phase of the project lifecycle</li>
 	<li>Collaborate with our elite partners (BigCommerce) and third parties in finding solutions to complex requirements</li>
-	<li>Work closely with all internal teams (design, development, content, sales, SEO) ensuring everyong is in sync with the scope, requirements and milestones are met on time</li>
+	<li>Work closely with all internal teams (design, development, content, sales, SEO) ensuring everyone is in sync with the project scope, requirements ensuring milestones are met on time</li>
 	<li>Maintain constant communication on project status ensuring internal and client tasks are met to keep the project on track</li>
 	<li>Manage the overall budget and hours of each phase of the project lifecycle</li>
 	<li>Resolve conflicts or changes that may arise with the scope, budget or project timeline</li>
