@@ -35,9 +35,22 @@
 		<div class="row">
 			<div class="col-12 col-md-6 col-lg-4">
 				<div class="blog-ov">
-					<h3>New eCommerce Website for Groundbreaking Pet Supplements Company is "Pawesome"</h3>
-					<p><a href="https://www.seattlewebdesign.com/blog/seattle-web-design-online-marketing-blog/post/new-ecommerce-website-for-groundbreaking-pet-supplements-company-is-pawesome" target="_blank" title="New eCommerce Website for Groundbreaking Pet Supplements Company is "Pawesome"">read more &raquo;</a></p>
+					<h3>New Launch: eCommerce Website for Printa Systems</h3><p>Our team recently launched a new eCommerce Website for Printa Systems -- Promotional Product Printing Systems</p><p><a href="https://www.seattlewebdesign.com/blog/seattle-web-design-online-marketing-blog/post/new-launch-ecommerce-website-for-printa-systems-promotional-product-printing-systems" target="_blank" title="New Launch: eCommerce Website for Printa Systems">read more &raquo;</a></p>
 				</div>
+				<div class="blog-ov">
+					<h3>Launched: Just In Time For Summer - Check Out Union AquaParks New Website!</h3><p>Union AquaParks is as fun as it sounds and we were stoked to work with the team to create an awesome new website for them!</p><p><a href="https://www.seattlewebdesign.com/blog/seattle-web-design-online-marketing-blog/post/just-in-time-for-summer-check-out-union-aqua-parks-brand-new-website" target="_blank" title="Launched: Just In Time For Summer - Check Out Union AquaParks New Website!">read more &raquo;</a></p>
+				</div>
+				<div class="blog-ov">
+					<h3>Launched: eCommerce Website for Legendary Wakeboard Company</h3>
+					<p>Last June, we announced the launch of a stunning eCommerce website for water skis company, Radar Skis. Now, we've just launched an equally eye-grabbing site for its sister company, Ronix Wakeboards.</p><p><a href="https://www.seattlewebdesign.com/blog/seattle-web-design-online-marketing-blog/post/launched-ecommerce-website-for-high-tech-wakeboard-company" target="_blank" title="Launched: eCommerce Website for Legendary Wakeboard Company">read more &raquo;</a></p>
+				</div>
+				<div class="blog-ov">
+					<h3>Sales and Marketing Research Firm Has a Brand New Website</h3>
+					<p>The SAMS team came to efelle looking for a better way to present their ideas and offerings online. Right out the gate, we placed a focus on SEO, site architecture, navigability, and general ease of use.</p><p><a href="https://www.seattlewebdesign.com/blog/seattle-web-design-online-marketing-blog/post/sales-and-marketing-research-firm-has-a-brand-new-website" target="_blank" title="Sales and Marketing Research Firm Has a Brand New Website">read more &raquo;</a></p>
+				</div>
+			</div>
+
+			<div class="col-12 col-md-6 col-lg-4">
 				<div class="blog-ov">
 					<h3>B2B eCommerce Company Makes a Splash with Eye-Catching Website Redesign</h3>
 					<p><a href="https://www.seattlewebdesign.com/blog/seattle-web-design-online-marketing-blog/post/b2b-ecommerce-website-makes-a-splash-with-eye-catching-redesign" target="_blank" title="B2B eCommerce Company Makes a Splash with Eye-Catching Website Redesign">read more &raquo;</a></p>
@@ -53,37 +66,18 @@
 					<p>efelle creative recently launched a new mobile-responsive, feature-rich website for Big Haul Junk Removal.</p>
 					<p><a href="https://www.seattlewebdesign.com/blog/seattle-web-design-online-marketing-blog/post/efelle-creative-redesigns-and-declutters-big-haul-junk-removals-website" target="_blank" title="efelle creative recently launched a new mobile-responsive, feature-rich website for Big Haul Junk Removal.">read more &raquo;</a></p>
 				</div>
-				
-			</div>
-
-			<div class="col-12 col-md-6 col-lg-4">
 
 				<div class="blog-ov">
 					<h3>efelle creative Serves Up an Appetizing Website for ACT 3 Catering</h3>
 					<p>Happy New Year! Now that 2017 is a thing of the past, I'm excited for some new adventures and changes in 2018.</p>
 					<p><a href="https://www.seattlewebdesign.com/blog/seattle-web-design-online-marketing-blog/post/efelle-creative-serves-up-an-appetizing-website-for-act-3-catering" target="_blank" title="efelle creative Serves Up an Appetizing Website for ACT 3 Catering">read more &raquo;</a></p>
 				</div>
-				<div class="blog-ov">
-					<h3>Happy New Year 2018!</h3>
-					<p>Happy New Year! Now that 2017 is a thing of the past, I'm excited for some new adventures and changes in 2018.</p>
-					<p><a href="happy-new-year-2018" title="Happy New Year 2018!">read more &raquo;</a></p>
-				</div>
-
-				<div class="blog-ov">
-					<h3>Welcome 2017!</h3>
-					<p>Hello 2017! Late updates on what's been going on so far this year.</p>
-					<p><a href="welcome-2017" title="Welcome 2017!">read more &raquo;</a></p>
-				</div>
-
-				<div class="blog-ov">
-					<h3>Career changes in 2016</h3>
-					<p>New year means new changes! After 15+ years of Web Design and Development I'm transitioning into a consultant role and I couldn't be more excited!</p>
-					<p><a href="career-changes-in-2016" title="Career changes in 2016">read more &raquo;</a></p>
-				</div>
+				
 				
 			</div>
 
 			<div class="col-12 col-md-6 col-lg-4">
+				
 				<div class="blog-ov">
 					<h3>Embrace Web Technology</h3>
 					<p>Technology to me is a combination of excitement, intimidation and awe all rolled up into one. </p>

@@ -12,7 +12,7 @@
 
 	<link href="styles/style.css" rel="stylesheet" type="text/css" media="all" />
 
-	<?php include 'scripts/gtag.php';?>
+	<<!-- ?php include 'scripts/gtag.php';?> -->
 </head>
 
 <body>
@@ -25,10 +25,11 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-7 offset-md-2">
-				<h1>Account <strong>Manager</strong></h1>
-				<h2>Digital <strong>Strategist</strong></h2>
-				<h3>Web <strong>Developer</strong></h3>
-				<h4>UX/UI <strong>Designer</strong></h4>
+				<h1>eCommerce <strong>Strategist</strong></h1>
+				<h2>Account <strong>Manager</strong></h2>
+				<h3>Digital <strong>Strategist</strong></h3>
+				<h4>Web <strong>Developer</strong></h4>
+				<h5>UX/UI <strong>Designer</strong></h5>
 
 			</div>
 		</div>
@@ -78,7 +79,7 @@
 			</div>
 			<div class="col-12 col-md-9">
 				<div class="exp-txt">
-					<?php include 'includes/efelle-3.php';?>
+					<?php include 'includes/efelle-4.php';?>
 				</div>
 			</div>
 		</div>
@@ -97,13 +98,11 @@
 
 <section class="exp hideme">
 	<div class="container">
-
-		<div id="accordion">
-		  	<div class="card">
+			<div class="card">
 		   		<div class="card-header" id="headingOne">
 		      		<h5 class="mb-0">
 			        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-			        Digital Strategist - <strong>efelle creative</strong>
+			        Sr. Account Manager - <strong>efelle creative</strong>
 			        <i class="fas fa-plus"></i>
 			        </button>
 		      		</h5>
@@ -111,21 +110,38 @@
 
 			    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
 			      	<div class="card-body">
+						<?php include 'includes/efelle-3.php';?>
+			      	</div>
+			    </div>
+			</div>
+		<div id="accordion">
+		  	<div class="card">
+		   		<div class="card-header" id="headingTwo">
+		      		<h5 class="mb-0">
+			        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseOne">
+			        Digital Strategist - <strong>efelle creative</strong>
+			        <i class="fas fa-plus"></i>
+			        </button>
+		      		</h5>
+		   		</div>
+
+			    <div id="collapseTwo" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+			      	<div class="card-body">
 						<?php include 'includes/efelle-2.php';?>
 			      	</div>
 			    </div>
 			</div>
 
 			<div class="card">
-		    	<div class="card-header" id="headingTwo">
+		    	<div class="card-header" id="headingThree">
 		      		<h5 class="mb-0">
-		        	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+		        	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
 		          	Web Developer - <strong>efelle creative</strong>
 		          	<i class="fas fa-plus"></i>
 		       		 </button>
 		      		</h5>
 		    	</div>
-		    	<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+		    	<div id="collapseThree" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
 		     		<div class="card-body">
 		     			<?php include 'includes/efelle-1.php';?>
 		      		</div>
@@ -133,25 +149,9 @@
 		  	</div>
 
 		  	<div class="card">
-		    	<div class="card-header" id="headingThree">
-		      		<h5 class="mb-0">
-		        	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-		          	Web Developer/Analyst - <strong>Boeing</strong>
-		          	<i class="fas fa-plus"></i>
-		       		 </button>
-		      		</h5>
-		    	</div>
-		    	<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-		     		<div class="card-body">
-		     			<?php include 'includes/boeing-3.php';?>
-		      		</div>
-		    	</div>
-		  	</div>
-
-		  	<div class="card">
 		    	<div class="card-header" id="headingFour">
 		      		<h5 class="mb-0">
-		        	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+		        	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
 		          	Web Developer/Analyst - <strong>Boeing</strong>
 		          	<i class="fas fa-plus"></i>
 		       		 </button>
@@ -159,7 +159,7 @@
 		    	</div>
 		    	<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
 		     		<div class="card-body">
-		     			<?php include 'includes/boeing-2.php';?>
+		     			<?php include 'includes/boeing-3.php';?>
 		      		</div>
 		    	</div>
 		  	</div>
@@ -168,14 +168,14 @@
 		    	<div class="card-header" id="headingFive">
 		      		<h5 class="mb-0">
 		        	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-		          	Workload Manager - <strong>Boeing</strong>
+		          	Web Developer/Analyst - <strong>Boeing</strong>
 		          	<i class="fas fa-plus"></i>
 		       		 </button>
 		      		</h5>
 		    	</div>
-		    	<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+		    	<div id="collapseFive" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
 		     		<div class="card-body">
-		     			<?php include 'includes/boeing-1.php';?>
+		     			<?php include 'includes/boeing-2.php';?>
 		      		</div>
 		    	</div>
 		  	</div>
@@ -184,12 +184,28 @@
 		    	<div class="card-header" id="headingSix">
 		      		<h5 class="mb-0">
 		        	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+		          	Workload Manager - <strong>Boeing</strong>
+		          	<i class="fas fa-plus"></i>
+		       		 </button>
+		      		</h5>
+		    	</div>
+		    	<div id="collapseSix" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+		     		<div class="card-body">
+		     			<?php include 'includes/boeing-1.php';?>
+		      		</div>
+		    	</div>
+		  	</div>
+
+		  	<div class="card">
+		    	<div class="card-header" id="headingSeven">
+		      		<h5 class="mb-0">
+		        	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
 		          	Freelance - <strong>Work</strong>
 		          	<i class="fas fa-plus"></i>
 		       		 </button>
 		      		</h5>
 		    	</div>
-		    	<div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
+		    	<div id="collapseSeven" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
 		     		<div class="card-body">
 		     			<?php include 'includes/freelance.php';?>
 		      		</div>
@@ -294,7 +310,7 @@
 	<div class="container">
 		<div class="row">
 			<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-			s<div class="elfsight-app-425ac7b3-595a-4f55-8c94-32bc170b8db9"></div>
+			<div class="elfsight-app-425ac7b3-595a-4f55-8c94-32bc170b8db9"></div>
 		</div>
 	</div>
 </section>

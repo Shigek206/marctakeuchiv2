@@ -82,6 +82,9 @@ li {
     opacity: 0.4; }
   .masthead h4 {
     opacity: 0.2; }
+  .masthead h5 {
+    font-size: 1rem;
+    opacity: 0.1; }
   @media (min-width: 0) {
     .masthead {
       padding: 3rem 0; } }

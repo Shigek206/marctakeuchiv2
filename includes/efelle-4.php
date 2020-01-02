@@ -1,6 +1,8 @@
-<p>Seattle, WA | Dates: Oct 2017 - Present</p>
-<p>Manage new and existing projects working closely with clients, creating long term relationships.</p>
-
+<h4>efelle creative - Seattle, WA - <strong>eCommerce Integration Strategist</strong></h4>
+<p>Work with clients to determine solutions to help acheive their online store's goals.</p>
+<p><strong>Nickname</strong>: Chief</p>
+<p><strong>Tenure</strong>: 9 years...
+<p><strong>Responsibilities:</strong></p>
 <ul>
 	<li>Define timelines and milestones ensuring clients have a clear understanding of each phase of the project lifecycle</li>
 	<li>Collaborate with our elite partners (BigCommerce) and third parties in finding solutions to complex requirements</li>
@@ -12,5 +14,3 @@
 	<li>Provide CMS training</li>
 	<li>Provide ongoing client support for future needs and questions</li>
 </ul>
-
-<p>In addition account management, I continue to help other teams (front-end development, sales/marketing, app development, technical support).</p>
