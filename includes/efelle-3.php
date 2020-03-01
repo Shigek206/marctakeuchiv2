@@ -1,4 +1,4 @@
-<p>Seattle, WA | Dates: Oct 2017 - Present</p>
+<p>Seattle, WA | Dates: Oct 2017 - Nov 2019</p>
 <p>Manage new and existing projects working closely with clients, creating long term relationships.</p>
 
 <ul>

@@ -1,2 +1,2 @@
-<p>&copy;1999 - 2019 Marc Takeuchi - powered by: bamboo digital</p>
+<p>&copy;1999 - 2020 Marc Takeuchi - powered by: bamboo digital</p>
 <p><a href="https://www.linkedin.com/in/marctakeuchi" target="_blank" title="Marc Takeuchi LinkedIn"><i class="fab fa-linkedin"></i></a> <a href="https://www.instagram.com/marctakeuchi/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></p>
