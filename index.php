@@ -3,8 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Marc Takeuchi v.6 | Account Manager Seattle, WA</title>
-	<meta NAME="description" CONTENT="Welcome to the personal site of Marc Takeuchi">
+	<title>Marc Takeuchi v.6 | eCommerce Integration Strategist Seattle, WA</title>
+	<meta NAME="description" CONTENT="Welcome to the personal site of Marc Takeuchi. Sr. Account Manager and eCommerce Strategist">
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -12,7 +12,7 @@
 
 	<link href="styles/style.css" rel="stylesheet" type="text/css" media="all" />
 
-	<<!-- ?php include 'scripts/gtag.php';?> -->
+	<!-- <?php include 'scripts/gtag.php';?> -->
 </head>
 
 <body>

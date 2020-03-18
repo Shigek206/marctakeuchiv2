@@ -10,3 +10,5 @@ comps
 scripts
 hover.php
 buildout.php
+test.php
+includes/boeing-3_old.php
