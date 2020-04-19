@@ -12,7 +12,7 @@
 
 	<link href="styles/style.css" rel="stylesheet" type="text/css" media="all" />
 
-	<!-- <?php include 'scripts/gtag.php';?> -->
+	<?php include 'scripts/gtag.php';?>
 </head>
 
 <body>
