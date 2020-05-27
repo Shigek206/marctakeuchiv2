@@ -12,7 +12,7 @@
 
 	<link href="styles/style.css" rel="stylesheet" type="text/css" media="all" />
 
-	<?php include 'scripts/gtag.php';?>
+	
 </head>
 
 <body>
@@ -200,7 +200,7 @@
 		    	<div class="card-header" id="headingSeven">
 		      		<h5 class="mb-0">
 		        	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-		          	Freelance - <strong>Work</strong>
+		          	Fun Stuff - <strong>Freelance</strong>
 		          	<i class="fas fa-plus"></i>
 		       		 </button>
 		      		</h5>

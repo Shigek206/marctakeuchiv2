@@ -486,3 +486,76 @@ li {
 		font-size: 1.5rem;
 	}
 }
+
+// Portfolio
+
+.port {
+
+	h3 {
+		font-weight: $font-weight-semi;
+	}
+
+	.port-cnt {
+
+		@media (min-width: $screen-xs) {
+
+			p {
+				font-size: 0.875rem;
+				margin: 0;
+			}
+		}
+
+		@media (min-width: $screen-sm) {
+
+			p {
+				padding: 40px;
+			  	position: absolute;
+			  	top: 50%;
+			  	left: 50%;
+			  	transform: translate(-50%, -50%);
+			  	width: 100%;
+			}
+		}
+
+	}
+
+	.port-img {
+
+		img {
+			width: 100%;
+		}
+
+		@media (min-width: $screen-xs) {
+			padding-bottom: 2rem;
+		}
+
+		@media (min-width: $screen-sm) {
+			padding: 2rem;
+		}
+	}
+
+	.line {
+		margin: 30px auto;
+		width: 60%;
+		height: 50px;
+		border: none;
+		position: relative;
+		text-align: center
+	}
+
+	.line:after {
+	 	content: '';
+	 	display: block;
+		position: absolute;
+		z-index: 1;
+		top: 0;
+		bottom: 0;
+		left: 50%;
+		border-left: 1px solid $body-color;
+		transform: translate(-50%);
+	}
+} 
+
+
+
+
