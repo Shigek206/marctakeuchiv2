@@ -122,4 +122,29 @@
 	</div>
 </div>
 
+<div class="container">
+	<div class="row">
+		<div class="line col-12"></div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-12">
+		<h3 align="center">2020...</h3>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-12 col-sm-6">
+		<div class="port-cnt">
+			<p>// <strong>v6.0</strong> - Well, here we are. Not much to say about this version other then the inspiration and overall design came on a whim. I can't pinpoint what the spark was however design is something I think about all the time. Art in general has been part of my life and a hobby since I was a kid so even though I'm far removed from doing design full time, I still like to stay engaged into today's "web" design trends. As I mentioned in the intro, this is my fun online hobby project. Will I change it up completely next week, month, year? We'll see!</p>
+		</div>
+	</div>
+	<div class="col-12 col-sm-6">
+		<div class="port-img">
+			<img src="graphics/marc-takeuchi-2020_port.jpg" alt="Marc Takeuchi Bitmoji">
+		</div>
+	</div>
+</div>
+
 

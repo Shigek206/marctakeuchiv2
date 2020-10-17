@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Marc Takeuchi v.6 | eCommerce Integration Strategist Seattle, WA</title>
+	<title>Marc Takeuchi v.6 | eCommerce Integration Strategist & Account Manager Seattle, WA</title>
 	<meta NAME="description" CONTENT="Welcome to the personal site of Marc Takeuchi. Sr. Account Manager and eCommerce Strategist">
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 
 	<link href="styles/style.css" rel="stylesheet" type="text/css" media="all" />
-
+	<?php include 'scripts/gtag.php';?>
 	
 </head>
 
@@ -309,6 +309,8 @@
 <section class="ig hideme">
 	<div class="container">
 		<div class="row">
+			<!-- <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+			<div class="elfsight-app-425ac7b3-595a-4f55-8c94-32bc170b8db9"></div> -->
 			<script src="https://apps.elfsight.com/p/platform.js" defer></script>
 			<div class="elfsight-app-425ac7b3-595a-4f55-8c94-32bc170b8db9"></div>
 		</div>
