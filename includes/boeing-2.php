@@ -5,9 +5,9 @@
 
 <p><strong>Key Achievements:</strong></p>
 <ul>
-	<li>Developed and launched our CMS consolidating 45 organization website saving $90,000/yr in server space.</li>
-	<li>Presented and pitched our solutions to senior management and successfully implemented our CMS to other organizations</li>
-	<li>Participated on company web teams developing organization web standards and successfully implemented these to all 2nd and 1st – level management websites</li>
+	<li>Developed custom Content Management System (CMS) consolidating 45 organization website saving $90,000/yr in server space.</li>
+	<li>Pitched recommendations and solutions to senior management successfully implementing our CMS to other groups in our organization</li>
+	<li>Participated on enterprise web teams developing company-wide web standards and successfully implemented these to all our 2nd and 1st level organization websites</li>
 	<li>Led the successful implementation of WSSO (Web Single Sign On) into all organization web applications</li>
 
 </ul>

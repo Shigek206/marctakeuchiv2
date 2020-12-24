@@ -1,5 +1,5 @@
 <p><strong>What I love:</strong></p>
-<p>People!, Web UX/UI Design, Web Usability, Information Architecture, Systems Analysis, SEO, Tacos, Researching and finding solutions to solve complex reqirements, Learning!</p>
+<p>People!, Web UX/UI Design, Web Usability, Information Architecture, Systems Analysis, SEO, Tacos, researching and finding solutions to solve complex requirements, learning!</p>
 
 <p><strong>Tools:</strong></p>
 <p>Adobe CC, Sublime Text, GitHub, SQL Pro, Heidi SQL, G-Suite for Business, Basecamp, Slickplan, Trello, Slack, Paymo, Notion, Office 365, BigCommerce, Shopify, WordPress</p>
